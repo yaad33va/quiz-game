@@ -5,7 +5,7 @@
 }
 
 body {
-  background: #f5efe6;
+  background: #ffe6f2;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -24,7 +24,6 @@ body {
   position: relative;
 }
 
-/* SCREENS */
 .screen {
   display: none;
   padding: 2rem;
@@ -35,10 +34,8 @@ body {
   display: block;
 }
 
-/* START SCREEN */
-
 #start-screen h1 {
-  color: #e86a33;
+  color: #ff66b2;
   margin-bottom: 20px;
   font-size: 2.5rem;
 }
@@ -75,9 +72,9 @@ body {
 }
 
 .answer-btn {
-  background-color: #f8f0e5;
+  background-color: #ffe6f2;
   color: #333;
-  border: 2px solid #eadbc8;
+  border: 2px solid #ffb3d9;
   border-radius: 10px;
   padding: 1rem;
   cursor: pointer;
@@ -86,25 +83,25 @@ body {
 }
 
 .answer-btn:hover {
-  background-color: #eadbc8;
-  border-color: #dac0ae;
+  background-color: #ffb3d9;
+  border-color: #ff99cc;
 }
 
 .answer-btn.correct {
-  background-color: #e6fff0;
+  background-color: #e6ffe6;
   border-color: #a3f0c4;
   color: #28a745;
 }
 
 .answer-btn.incorrect {
-  background-color: #fff0f0;
+  background-color: #ffe6e6;
   border-color: #ffbdbd;
   color: #dc3545;
 }
 
 .progress-bar {
   height: 10px;
-  background-color: #f8f0e5;
+  background-color: #ffe6f2;
   border-radius: 5px;
   overflow: hidden;
   margin-top: 20px;
@@ -112,18 +109,18 @@ body {
 
 .progress {
   height: 100%;
-  background-color: #e86a33;
+  background-color: #ff66b2;
   width: 0%;
   transition: width 0.3s ease;
 }
 
 #result-screen h1 {
-  color: #e86a33;
+  color: #ff66b2;
   margin-bottom: 30px;
 }
 
 .result-info {
-  background-color: #f8f0e5;
+  background-color: #ffe6f2;
   border-radius: 10px;
   padding: 20px;
   margin-bottom: 30px;
@@ -138,11 +135,11 @@ body {
 .result-message {
   font-size: 1.5rem;
   font-weight: 600;
-  color: #e86a33;
+  color: #ff66b2;
 }
 
 button {
-  background-color: #e86a33;
+  background-color: #ff66b2;
   color: white;
   border: none;
   border-radius: 10px;
@@ -153,7 +150,7 @@ button {
 }
 
 button:hover {
-  background-color: #d45b28;
+  background-color: #ff4da6;
 }
 
 @media (max-width: 500px) {

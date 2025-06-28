@@ -1,0 +1,10 @@
+What is the capital of France?|London,false|Berlin,false|Paris,true|Madrid,false
+Which planet is known as the Red Planet?|Venus,false|Mars,true|Jupiter,false|Saturn,false
+What is the largest ocean on Earth?|Atlantic Ocean,false|Indian Ocean,false|Arctic Ocean,false|Pacific Ocean,true
+Which of these is NOT a programming language?|Java,false|Python,false|Banana,true|JavaScript,false
+What is the chemical symbol for gold?|Go,false|Gd,false|Au,true|Ag,false
+What is the capital of Italy?|Rome,true|Paris,false|Berlin,false|Madrid,false
+Which animal is known as the King of the Jungle?|Lion,true|Tiger,false|Elephant,false|Bear,false
+What is the smallest planet in our solar system?|Mercury,true|Mars,false|Venus,false|Earth,false
+Who painted the Mona Lisa?|Leonardo da Vinci,true|Vincent van Gogh,false|Pablo Picasso,false|Claude Monet,false
+What is the boiling point of water at sea level?|100,true|90,false|110,false|120,false
